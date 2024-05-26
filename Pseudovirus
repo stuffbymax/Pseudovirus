@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Display a message indicating the system is infected
+echo "Your system has been infected by a fake virus!"
+echo "Please do not panic. This is just a harmless demonstration and test."
